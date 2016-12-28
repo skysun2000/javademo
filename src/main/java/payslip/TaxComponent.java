@@ -8,7 +8,7 @@ public class TaxComponent {
 	   public TaxComponent(){
 		 
 		  FixedComponent var = new FixedComponent();
-	      this.tax = (var.totalFixedComponent() * 9)/100;
+	      this.tax = (var.totalFixedComponent() * 9)/100  ;
 	   }
 	      
 	   // prints the variable pay
