@@ -9,7 +9,7 @@ public class NetComponentTest {
 
    @Test
    public void testPrintMessage() {
-      double message = 39219.04538461538;
+      double message = 38428.68538461538;
       assertEquals(message,messageUtil.printNetSalary(),0.01);
    }
 }
