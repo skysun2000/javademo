@@ -1,0 +1,8 @@
+<suite name="Suite">
+    <test name="JUnitTests" junit="true">
+        <classes>
+            <class name="payslip.TaxComponentTest" />
+            <class name="payslip.NetComponentTest" />
+        </classes>
+    </test>
+</suite> <!-- Suite -->
